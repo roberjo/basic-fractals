@@ -1,6 +1,6 @@
 # 🌀 Apple IIe BASIC Fractal Generator
 
-![AppleIIe](https://img.shields.io/badge/AppleIIe-8-bit-blue)
+![Apple_IIe](https://img.shields.io/badge/Apple-IIe-8-bit-blue)
 ![BASIC](https://img.shields.io/badge/BASIC-Applesoft-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Version](https://img.shields.io/badge/Version-1.0-orange)

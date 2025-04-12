@@ -1,0 +1,32 @@
+INTERESTING FRACTAL REGIONS
+
+MANDELBROT SET:
+1. Main Cardioid
+   X: -0.75 to 0.75
+   Y: -0.5 to 0.5
+
+2. Seahorse Valley
+   X: -0.75 to -0.65
+   Y: 0.1 to 0.2
+
+3. Elephant Valley
+   X: 0.25 to 0.35
+   Y: 0.45 to 0.55
+
+JULIA SETS:
+1. Classic Julia (c = -0.7 + 0.27i)
+   X: -1.5 to 1.5
+   Y: -1.5 to 1.5
+
+2. Dendrite Julia (c = i)
+   X: -1.5 to 1.5
+   Y: -1.5 to 1.5
+
+3. Douady's Rabbit (c = -0.123 + 0.745i)
+   X: -1.5 to 1.5
+   Y: -1.5 to 1.5
+
+RECOMMENDED SETTINGS:
+Iterations: 50-100
+Escape Radius: 4
+Color Scheme: 1 (Classic) 

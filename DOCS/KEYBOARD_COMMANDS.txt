@@ -1,0 +1,27 @@
+FRACTAL GENERATOR - KEYBOARD COMMANDS
+
+MAIN MENU:
+1-6: Select menu options
+
+DURING FRACTAL VIEWING:
+Arrow Keys: Pan/scroll
+Space: Zoom in
+Z: Zoom out
+S: Save current view
+L: Load saved view
+ESC: Return to main menu
+
+COLOR CONTROLS:
+C: Cycle through color schemes
++: Increase iteration count
+-: Decrease iteration count
+
+NAVIGATION:
+B: Bookmark current view
+G: Go to bookmarked view
+R: Reset view to default
+
+SETTINGS:
+F1: Display coordinates
+F2: Toggle progress indicator
+F3: Adjust escape radius 
